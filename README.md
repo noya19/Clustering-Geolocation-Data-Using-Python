@@ -9,3 +9,4 @@ The project visualizes the clustering Data  in a map using the **folium** librar
 
 ## REFERENCES
 
+**This is a Coursera Guided Project by Ari Anastassiou** [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python)
