@@ -5,7 +5,7 @@ The project visualizes the clustering Data  in a map using the **folium** librar
 
 ## PROJECT OUTCOME
 
-![Clusters of Taxi Rank Locations](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)  
+![Clusters of Taxi Rank Locations](https://github.com/noya19/Clustering-Geolocation-Data-Using-Python/blob/master/FinalOutcomeimg.png)  
 
 ## REFERENCES
 
